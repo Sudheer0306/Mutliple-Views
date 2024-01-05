@@ -1,0 +1,1 @@
+<h1 style="color: gold">Welcome to About Page</h1>

@@ -1,0 +1,1 @@
+<h1 style="color: red">Welcome to Index Page</h1>
